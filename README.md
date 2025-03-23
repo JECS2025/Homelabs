@@ -1,13 +1,48 @@
-# Homelabs
+# Homelab Project Overview
 
-This repository documents the setup, configuration, and maintenance of my homelab environment.
+Welcome to my homelab documentation repo. This project showcases my ability to design, deploy, and manage enterprise-grade IT infrastructure in a virtual lab environment.
 
-I'll keep this short; the whole idea behind this project is to demonstrate my appetite for learning new things and applying them to simulated real-world environments. I plan to build each homelab iteration on top of the previous one, expanding in a progressive manner.
+---
 
-## How I Plan for It to Go
+## 🛠️ Purpose
+- Simulate real-world IT environments.
+- Gain hands-on experience with Active Directory, Group Policy, Networking, Logging, and Security.
+- Build a foundation for blue team operations, detection, and response.
 
-- **Phase 1:** AD Setup & Basic Config
-- **Phase 2:** Firewalls & Network Segmentation
-- **Phase 3:** SIEM Setup (Splunk, Wazuh, ELK)
-- **Phase 4:** Honeypot Creation & Deployment
-- **Phase 5:** Attack Simulations & Incident Response
+---
+
+## 📃 Current Lab Stack
+| Component                | Description                                         |
+|-------------------------|-----------------------------------------------------|
+| **DC01**                | Domain Controller, DNS, DHCP, NAT                  |
+| **FS01**                | File Server with shared storage                   |
+| **WS01**                | Windows 11 Client for policy/logging validation   |
+| **Router/NAT**          | Configured via DC01's RRAS role                   |
+
+---
+
+## 📋 Documentation Structure
+| Phase                  | Documentation                                      |
+|-----------------------|-----------------------------------------------------|
+| **Phase 1**           | AD Setup & Basic Config                            |
+| → [DC01 Config](./DC01_Config.md)     | Domain Controller Setup                        |
+| → [FS01 Config](./FS01_Config.md)     | File Server Setup                              |
+| → [WS01 Config](./WS01_Config.md)     | Workstation Domain Join & Testing             |
+| → [Router Config](./Router_Config.md) | NAT & Routing Setup via RRAS                  |
+| → [Group Policy](./GroupPolicy.md)    | Baseline GPOs for Security                    |
+| → [Logging Setup](./Security_Logging.md)| WEF + Sysmon for log collection               |
+
+---
+
+## 📚 Skills Demonstrated
+- Active Directory management
+- Network segmentation and NAT
+- Group Policy hardening
+- Centralized logging (WEF + Sysmon)
+- PowerShell command usage and validation
+
+---
+
+## 🛍️ Contact / More
+- GitHub: [github.com/yourprofile](https://github.com/JECS2025)
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/jordan-abbott-197377346/)
