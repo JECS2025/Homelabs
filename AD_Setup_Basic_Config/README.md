@@ -4,6 +4,12 @@ This repository documents the setup, configuration, and maintenance of my homela
 
 I'll keep this short; the whole idea behind this project is to demonstrate my appetite for learning new things and applying them to simulated real-world environments. I plan to build each homelab iteration on top of the previous one, expanding in a progressive manner.
 
+## 🗂️ Contents
+1. [Lab Environment](#-lab-environment)
+2. [Key Setup Steps](#️-key-setup-steps)
+3. [Topology Overview](#-topology-overview)
+4. [Table of Contents (Phase 1 Docs)](#-table-of-contents)
+
 ---
 
 ## 🔧 How I Plan for It to Go
