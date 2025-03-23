@@ -12,16 +12,6 @@ I'll keep this short; the whole idea behind this project is to demonstrate my ap
 
 ---
 
-## 🔧 How I Plan for It to Go
-
-- **Phase 1:** AD Setup & Basic Config  
-- **Phase 2:** Firewalls & Network Segmentation  
-- **Phase 3:** SIEM Setup (Splunk, Wazuh, ELK)  
-- **Phase 4:** Honeypot Creation & Deployment  
-- **Phase 5:** Attack Simulations & Incident Response 🔥
-
----
-
 ## 🧪 Lab Environment
 
 | **Role** | VM | **OS / Specs** |
