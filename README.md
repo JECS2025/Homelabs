@@ -43,6 +43,7 @@ Welcome to my homelab documentation repo. This project showcases my ability to d
 
 ---
 
-## 🛍️ Contact / More
-- GitHub: [github.com/yourprofile](https://github.com/JECS2025)
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/jordan-abbott-197377346/)
+## 📂 Contact / More
+- GitHub: [github.com/JECS2025](https://github.com/JECS2025)
+- LinkedIn: [linkedin.com/in/jordan-abbott-197377346](https://www.linkedin.com/in/jordan-abbott-197377346/)
+
