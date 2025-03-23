@@ -1,4 +1,4 @@
-# Homelabs
+# Active Directory & Basic Config Lab
 
 This repository documents the setup, configuration, and maintenance of my homelab environment.
 
