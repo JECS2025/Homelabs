@@ -45,7 +45,7 @@ This project showcases a fully functional **Active Directory (AD) homelab**, des
 
 ---
 
-This setup demonstrates my ability to **design, configure, and manage enterprise IT infrastructure**, including **Active Directory, networking, and NAT routing**.
+This setup demonstrates my ability to foundationally **design, configure, and manage enterprise IT infrastructure**, including **Active Directory, networking, and NAT routing**.
 
 ---
 
